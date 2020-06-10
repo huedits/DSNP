@@ -12,6 +12,6 @@
 
 
 ## Projetos:
-
+* [Analisando os dados do Airbnb em Tokyo](https://github.com/huedits/DSNP/blob/master/Analisando_os_Dados_do_Airbnb.ipynb)
 
 ---
